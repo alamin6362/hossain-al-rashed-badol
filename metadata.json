@@ -1,0 +1,6 @@
+{
+  "name": "Hossain Al Rashed Badol",
+  "description": "Personal academic website of Hossain Al Rashed Badol, Associate Professor of Political Science at the University of Arizona School of Government and Public Policy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
